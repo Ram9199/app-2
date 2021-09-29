@@ -1,0 +1,66 @@
+/* .roleform {
+  margin-top: 30px;
+  display: flex;
+  flex-wrap: wrap;
+  margin-left: 200px;
+  width: 600px;
+  height: 320px;
+  border-radius: 10px;
+  background-color: rgba(10, 11, 12, 0.986);
+}
+
+.First-Half,
+.Second-Half {
+  padding: 10px;
+  font-style: initial;
+  font-size: 100%;
+  margin-top: 30px;
+  margin-left: 65px;
+  width: 30%;
+}
+
+.role {
+  padding-bottom: 50px;
+  font-weight: 300%;
+
+  width: 150px;
+  height: 30px;
+  color: rgb(252, 249, 249);
+}
+
+.text {
+  font-size: 100%;
+  padding: 5px;
+  font-style: initial;
+  font-weight: 300%;
+  width: 200px;
+  border-radius: 8px;
+  height: 30px;
+}
+
+.button {
+  margin-top: 20px;
+  margin-left: 170px;
+  font-weight: 500;
+  font-style: initial;
+  width: 100px;
+  height: 30px;
+  border-radius: 10px;
+  color: rgb(6, 6, 8);
+  background-color: rgb(13, 85, 240);
+}
+
+@media screen and (min-width: 415px) {
+  .site-container {
+    flex-direction: row;
+  }
+}
+/* 
+margin-top: 10px;
+  padding: 7px 10px;
+  border: none;
+  border-radius: 10px;
+  background-color: darkblue;
+  color: white;
+  font-weight: 600;
+  cursor: pointer; */
